@@ -1,4 +1,4 @@
-# coockiecutter_example
+# cookiecutter_example
 
 My first project with cookiecutter
 
